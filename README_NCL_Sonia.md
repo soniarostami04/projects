@@ -77,6 +77,3 @@ ncl-cybersecurity-projects/
 
 To continuously build on these challenges, expand my cybersecurity skills, and contribute to the security community with learning-based content and documentation.
 
----
-
-> “Hack the system, protect the people.” – Sonia Rostami
