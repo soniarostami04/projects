@@ -54,4 +54,3 @@ For known hashes or quick tests, submitted directly at [https://crackstation.net
 - Dictionary attacks using real-world lists (like `rockyou.txt`) are highly effective
 - Salting passwords prevents fast offline cracking and rainbow table attacks
 
-> "Passwords are like underwear — change them often and don’t share them online." 🧠🔐
