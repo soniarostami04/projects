@@ -53,4 +53,3 @@ def caesar_crack(text):
 - CyberChef is a fast, powerful tool for encoding/decoding analysis
 - Pattern recognition and frequency analysis are key to substitution cracking
 
-> “Good encryption hides data. Great cryptanalysts find it.” 🔍🔐
