@@ -62,4 +62,3 @@ filetype:pdf site:*.gov confidential
 - Metadata and image context often tell a deeper story than surface content
 - Never underestimate a well-formed Google query
 
-> “The internet remembers everything. OSINT just helps you find it.” 🌍🕵️‍♀️
