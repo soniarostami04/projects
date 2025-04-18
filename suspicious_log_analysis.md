@@ -53,4 +53,3 @@ Identified top offending IPs.
 - Timestamps, frequency, and unusual access paths are key indicators
 - Simple CLI tools like `grep`, `awk`, and `sort` are powerful in triage
 
-> “Every incident leaves a trail. Logs are your breadcrumbs.” 🕵️‍♂️
